@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**stevanpopo/stevanpopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a commercially-minded software developer, with experience in scaling venture-backed startups.
 
-Here are some ideas to get you started:
+Currently, I'm working on a startup in stealth mode. Previously, I developed B2B Saas with Digital Fineprint and scaled sales, marketing and partnerships with Deliveroo & YPlan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find out more about me and see my writing on [stevanpopovic.com](https://www.stevanpopovic.com/).
+
+## Side-projects
+[Stock Ideas](https://www.stockideas.club/) - A weekly newsletter curating the best stock ideas and original investing research from the web.
+[Show Me The Money](https://www.showmethemoney.club/) - A fund and interactive way to visualise the power of investing.
+
+## Get in touch
+Website: https://www.stevanpopovic.com/
+Twitter: https://twitter.com/StevanPopo
+LinkedIn: https://www.linkedin.com/in/stevanpopovic/
