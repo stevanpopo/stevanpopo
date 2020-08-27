@@ -7,8 +7,8 @@ Currently, I'm working on a startup in stealth mode. Previously, I developed B2B
 You can find out more about me and see my writing on [stevanpopovic.com](https://www.stevanpopovic.com/).
 
 ## Side-projects
-[Stock Ideas](https://www.stockideas.club/) - A weekly newsletter curating the best stock ideas and original investing research from the web.
-[Show Me The Money](https://www.showmethemoney.club/) - A fund and interactive way to visualise the power of investing.
+- [Stock Ideas](https://www.stockideas.club/) - A weekly newsletter curating the best stock ideas and original investing research from the web.
+- [Show Me The Money](https://www.showmethemoney.club/) - A fund and interactive way to visualise the power of investing.
 
 ## Get in touch
 - Website: https://www.stevanpopovic.com/
