@@ -11,6 +11,6 @@ You can find out more about me and see my writing on [stevanpopovic.com](https:/
 [Show Me The Money](https://www.showmethemoney.club/) - A fund and interactive way to visualise the power of investing.
 
 ## Get in touch
-Website: https://www.stevanpopovic.com/
-Twitter: https://twitter.com/StevanPopo
-LinkedIn: https://www.linkedin.com/in/stevanpopovic/
+- Website: https://www.stevanpopovic.com/
+- Twitter: https://twitter.com/StevanPopo
+- LinkedIn: https://www.linkedin.com/in/stevanpopovic/
