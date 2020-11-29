@@ -8,7 +8,7 @@ You can find out more about me and see my writing on [stevanpopovic.com](https:/
 
 ## Side-projects
 - [Stock Ideas](https://www.stockideas.club/) - A weekly newsletter curating the best stock ideas and original investing research from the web.
-- [Show Me The Money](https://www.showmethemoney.club/) - A fund and interactive way to visualise the power of investing.
+- [Show Me The Money](https://www.showmethemoney.club/) - A fun and interactive way to visualise the power of investing.
 
 ## Get in touch
 - Website: https://www.stevanpopovic.com/
